@@ -1,0 +1,14 @@
+front family
+        playfare:font-family: "Playfair", serif;
+                 font-optical-sizing: auto;
+                 font-weight: <weight>;
+                 font-style: normal;
+                 font-variation-settings:"wdth" 100;                  
+        ubuntu: .ubuntu-light {
+                font-family: "Ubuntu", serif;
+                font-weight: 300;
+                font-style: normal;
+}
+color code:
+gray #626262;
+black #000000;
